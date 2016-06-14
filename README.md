@@ -1,1 +1,1 @@
-wget https://silvertriclops.github.io/iodineinstaller/iodineinstaller.sh && chmod +x iodineinstaller.sh && ./iodineinstaller.sh
+wget https://raw.githubusercontent.com/silvertriclops/iodineinstaller/master/iodineinstaller.sh && chmod +x iodineinstaller.sh && ./iodineinstaller.sh

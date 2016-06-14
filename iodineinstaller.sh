@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # For Ubuntu. Change the apt-get to something else if you don't use Ubuntu
-# wget https://silvertriclops.github.io/iodineinstaller/iodineinstaller.sh && chmod +x iodineinstaller.sh && ./iodineinstaller.sh
+# wget https://raw.githubusercontent.com/silvertriclops/iodineinstaller/master/iodineinstaller.sh && chmod +x iodineinstaller.sh && ./iodineinstaller.sh
 apt-get install -y iodine
 cat > ig <<EOF
 #!/bin/bash
